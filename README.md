@@ -24,10 +24,6 @@ To deploy this project run
 - User can visualize the tasks in a graph as per their due date
 - User can also set task prority.
 
-## Feedback
-
-If you have any feedback, please reach out to us at sd769113@gmail.com
-
 
 ## Installation
 
