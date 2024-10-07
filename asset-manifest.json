@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shabarirajan07/real-time-stock-market-dashboard/static/css/main.5be96330.css",
+    "main.js": "/Shabarirajan07/real-time-stock-market-dashboard/static/js/main.704fbaec.js",
+    "index.html": "/Shabarirajan07/real-time-stock-market-dashboard/index.html",
+    "main.5be96330.css.map": "/Shabarirajan07/real-time-stock-market-dashboard/static/css/main.5be96330.css.map",
+    "main.704fbaec.js.map": "/Shabarirajan07/real-time-stock-market-dashboard/static/js/main.704fbaec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5be96330.css",
+    "static/js/main.704fbaec.js"
+  ]
+}
