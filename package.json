@@ -1,6 +1,6 @@
 {
   "name": "task",
-  "homepage": "https://github.com/Shabarirajan07/real-time-stock-market-dashboard",
+  "homepage": "https://shabarirajan07.github.io/task_management_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +12,6 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "framer-motion": "^6.3.3",
-    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-beautiful-dnd": "^13.1.0",
     "react-datetime": "^3.2.0",
@@ -24,7 +23,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -47,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
